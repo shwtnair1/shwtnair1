@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shweta Nair.
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning React JS.
 - ⚡ My stacks are Html, CSS, JavaScript, Node.js, Express.js , React JS and AWS
 - 📫 How to reach me shwt.nair1@gmail.com
 
